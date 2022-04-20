@@ -2,12 +2,12 @@
 id: 28dtnrgs746kqz1250vs1bn
 title: Root
 desc: ''
-updated: 1650121496853
+updated: 1650470613208
 created: 1650121496853
 ---
-# Welcome to Dendron
+## Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the front-matter on top.
 
 ## Lookup
 
