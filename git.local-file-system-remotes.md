@@ -2,7 +2,7 @@
 id: 8vevuv394j15dqotx0v9g2x
 title: Local File System Remotes
 desc: ''
-updated: 1650470549709
+updated: 1650470817327
 created: 1650470250926
 ---
 
@@ -12,13 +12,13 @@ A bare repo can be useful for keeping repos in sync across machines using One Dr
 
 ```shell
 cd repos # change to whichever directory you like
-git init --bare myrepo.git
+git init --bare my-repo.git
 ```
 
 ## Link Local Repo With File System Remote
 
 ```shell
-git remote add origin /path/to/repos/myrepo.git
+git remote add origin /path/to/repos/my-repo.git
 git push origin master
 ```
 
