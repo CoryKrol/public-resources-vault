@@ -2,7 +2,7 @@
 id: u0gjxa4kc6ncba1i8jude62
 title: Dendron
 desc: ''
-updated: 1650122067153
+updated: 1650642633885
 created: 1650121578805
 ---
 
@@ -19,7 +19,7 @@ With Dendron you can reference and embed content from other notes in the current
 * Block (anchor) Reference
   * `![[name.of.note#^important-paragraph]]`
 * Range Reference
-  * `![[name.of.note#starting-header:ending-header]]`
+  * `![[name.of.note#starting-header:#ending-header]]`
 
 For references with spaces in the name use `-` instead
 
